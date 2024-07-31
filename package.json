@@ -1,0 +1,22 @@
+{
+    "name": "ch4nkyys-theme",
+    "displayName": "Ch4nKyy's Theme",
+    "description": "",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "publisher": "Ch4nKyy",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ch4nKyy's Theme",
+                "uiTheme": "vs",
+                "path": "./themes/ch4nkyys-theme.json"
+            }
+        ]
+    }
+}
